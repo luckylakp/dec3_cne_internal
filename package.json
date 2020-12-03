@@ -13,6 +13,7 @@
   "dependencies": {
     "@google-cloud/firestore": "^3.7.5",
     "body-parser": "^1.19.0",
+    "edit-package-json": "^0.2.2",
     "express": "^4.17.1"
   },
   "devDependencies": {
